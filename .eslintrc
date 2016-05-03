@@ -1,0 +1,14 @@
+{
+    "extends": "airbnb",
+    "plugins": [
+      "jasmine"
+    ],
+    "globals": {
+      "atom": true
+    },
+    "env": {
+      "node": true,
+      "jasmine": true,
+      "atomtest": true
+    }
+}
